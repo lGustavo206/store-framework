@@ -88,7 +88,7 @@
 
 
   "slider-layout#home": {
-    "children": ["image#1", "image#2", "image#3", "image#4", "image#5", "image#6"],
+    "children": ["image#brand1", "image#brand2", "image#brand3", "image#brand4", "image#brand5", "image#brand6"],
     "props": {
       "autoplay": {
         "timeout": 5000,
