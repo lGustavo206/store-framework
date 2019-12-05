@@ -35,5 +35,15 @@
     "showSavings": true,
     "showListPrice": true
   }
+},
+
+"flex-layout.row#product": {
+  "children": [
+    "product-price"
+  ],
+  "props": {
+    "showSavings": true,
+    "showListPrice": true
+  }
 }
 }
