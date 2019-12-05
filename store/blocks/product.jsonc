@@ -1,7 +1,8 @@
 {
   "store.product": {
      "children": [
-       "flex-layout.row#main"
+       "flex-layout.row#main",
+       "flex-layout.row#product"
      ]
    },
  
@@ -32,8 +33,8 @@
   "props": {
     "verticalAlign": "middle",
     "preventVerticalStrech": true,
-    "showSavings": true,
-    "showListPrice": true
+    "showSavings": false,
+    "showListPrice": false
   }
 },
 
@@ -46,4 +47,5 @@
     "showListPrice": true
   }
 }
+
 }
