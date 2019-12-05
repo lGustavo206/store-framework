@@ -102,7 +102,7 @@
   "rich-text#desktop": {
     "props": {
       "text": "# Your Coffee, Your Way /n ### New Coffee Makers Collection",
-      "font": "t-heading-3",
+      "font": "t-heading-4",
       "textPosition": "CENTER",
       "textAlignment": "CENTER"
     }
@@ -111,7 +111,7 @@
   "rich-text#mobile": {
     "props": {
       "text": "# Your Coffee, Your Way /n ### New Coffee Makers Collection",
-      "font": "t-heading-4",
+      "font": "t-heading-3",
       "textPosition": "CENTER",
       "textAlignment": "CENTER"
     }
