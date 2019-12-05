@@ -6,9 +6,7 @@
       "slider-layout#home",
       "shelf",
       "responsive-layout.desktop#desktop",
-      "responsive-layout.mobile#mobile",
-      "image#desktop",
-      "image#mobile"
+      "responsive-layout.mobile#mobile"
     ]
 
   },
@@ -94,11 +92,12 @@
 
   // responsiveimage
   "responsive-layout.desktop#desktop": {
-    "children": ["rich-text#desktop"]
+    "children": ["rich-text#desktop","image#desktop"]
+    
   },
   
   "responsive-layout.mobile#mobile": {
-    "children": ["rich-text#mobile"]
+    "children": ["rich-text#mobile", "image#mobile"]
   },
   
   "rich-text#desktop": {
