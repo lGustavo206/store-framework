@@ -84,5 +84,16 @@
       "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/major_appliance_banner___bb10093866a127345ddfbcca3efa5022.png",
       "maxWidth": "100%"
     }
+  },
+
+
+  "slider-layout#home": {
+    "children": ["image#1", "image#2", "image#3", "image#4", "image#5", "image#6"],
+    "props": {
+      "autoplay": {
+        "timeout": 5000,
+        "stopOnHover": false
+      }
+    }
   }
 }
