@@ -8,6 +8,7 @@
     "flex-layout.row":{
       "children": [
         "info-card",
+        "rich-text",
         "flex-layout.col"
       ]
     },
