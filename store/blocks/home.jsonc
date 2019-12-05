@@ -6,7 +6,9 @@
       "slider-layout#home",
       "shelf",
       "responsive-layout.desktop#desktop",
-      "responsive-layout.mobile#mobile"
+      "responsive-layout.mobile#mobile",
+      "image#desktop",
+      "image#mobile"
     ]
 
   },
